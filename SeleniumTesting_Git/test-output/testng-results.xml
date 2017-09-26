@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60" started-at="2017-09-05T16:35:56Z" finished-at="2017-09-05T16:35:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60" started-at="2017-09-05T16:35:56Z" finished-at="2017-09-05T16:35:56Z">
+      <class name="testNG.ExecutionFlowTestNG">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="testcase1" duration-ms="12" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="testcase2" duration-ms="1" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="testcase3" duration-ms="1" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testNG.ExecutionFlowTestNG@42d80b78]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-09-05T09:35:56Z" finished-at="2017-09-05T09:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testNG.ExecutionFlowTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
